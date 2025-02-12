@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/image">
+
+    <EditText
+        android:id="@+id/editTextLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Label Text"
+        android:padding="10dp"
+        android:background="@android:drawable/editbox_background"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/buttonPrint"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:text="Print Label"
+        android:gravity="center"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/marqueeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:singleLine="true"
+        android:layout_marginTop="550dp"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:text="LABEL YOUR THOUGHTS***"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#0000FF" />
+</LinearLayout>
