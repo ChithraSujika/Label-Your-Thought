@@ -1,5 +1,6 @@
 # Label-Your-Thought!
-![Uploading R.png…]()
+![Epos_Now_Bixolon_SLP-DX220_Barcode_Printer](https://github.com/user-attachments/assets/6f3ac941-66c7-460d-beb4-e822d51c37cc)
+
 
 In Android, general labels at home typically refer to UI labels or text descriptions that provide context or categorization for content on the home screen of an app. Their purpose includes:
 
