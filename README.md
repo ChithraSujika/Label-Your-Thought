@@ -1,4 +1,6 @@
-# Label-Your-Thought![R](https://github.com/user-attachments/assets/b8dce0ba-fe94-4750-abc9-0e5cdf6e725b)
+# Label-Your-Thought!
+![Uploading R.png…]()
+
 In Android, general labels at home typically refer to UI labels or text descriptions that provide context or categorization for content on the home screen of an app. Their purpose includes:
 
 Enhancing User Experience: Clearly indicate sections like "Trending Items," "Recent Orders," or "Recommended for You."
